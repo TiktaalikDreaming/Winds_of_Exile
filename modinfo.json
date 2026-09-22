@@ -1,0 +1,22 @@
+{
+	"name": "Winds_of_Exile",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+	},
+	"steamVisibility": 2,
+	"folderName": "Winds_of_Exile",
+	"devkitRevisionNumber": 0,
+	"devkitSnapshotId": 0,
+	"minimumVersion": "Enhanced",
+	"requestedHttpOrigins": []
+}
